@@ -1,0 +1,4 @@
+[submodule "subs"]
+	path = subs
+	url = git@github.com:lcontzen/subs.git
+	branch = main
